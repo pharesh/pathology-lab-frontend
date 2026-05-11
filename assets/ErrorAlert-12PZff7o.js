@@ -1,0 +1,1 @@
+import{b as e,c as t,l as n,rt as r}from"./api-Bv_FAwk_.js";var i={key:0,class:`bg-red-50 border border-red-200 text-red-700 rounded-md p-4 text-sm`},a={__name:`ErrorAlert`,props:{message:[String,Object]},setup(a){return(o,s)=>a.message?(e(),n(`div`,i,r(typeof a.message==`object`?Object.values(a.message).flat().join(` | `):a.message),1)):t(``,!0)}};export{a as t};

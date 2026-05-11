@@ -1,0 +1,1 @@
+import{t as e}from"./api-Bv_FAwk_.js";var t=t=>e.get(`/patients`,{params:t}),n=t=>e.get(`/patients/${t}`),r=t=>e.post(`/patients`,t),i=(t,n)=>e.put(`/patients/${t}`,n),a=t=>e.delete(`/patients/${t}`);export{i as a,t as i,a as n,n as r,r as t};

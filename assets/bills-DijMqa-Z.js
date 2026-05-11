@@ -1,0 +1,1 @@
+import{t as e}from"./api-Bv_FAwk_.js";var t=t=>e.get(`/bills`,{params:t}),n=t=>e.get(`/bills/${t}`),r=t=>e.post(`/bills`,t),i=(t,n)=>e.patch(`/bills/${t}`,n),a=(t,n)=>e.patch(`/bills/${t}/payment`,n);export{i as a,a as i,n,t as r,r as t};

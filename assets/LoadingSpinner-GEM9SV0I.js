@@ -1,0 +1,1 @@
+import{b as e,l as t,o as n}from"./api-Bv_FAwk_.js";var r=(e,t)=>{let n=e.__vccOpts||e;for(let[e,r]of t)n[e]=r;return n},i={},a={class:`flex justify-center items-center py-12`};function o(r,i){return e(),t(`div`,a,[...i[0]||=[n(`div`,{class:`w-8 h-8 border-4 border-blue-500 border-t-transparent rounded-full animate-spin`},null,-1)]])}var s=r(i,[[`render`,o]]);export{s as t};
